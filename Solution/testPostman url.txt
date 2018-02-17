@@ -1,0 +1,5 @@
+From kudoplex office:
+localhost:8001/getnearbyrestaurant/-6.253520/106.790803
+
+From Monas:
+localhost:8001/getnearbyrestaurant/-6.175405/106.825928
